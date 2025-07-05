@@ -14,13 +14,14 @@
 - 📐 **Statistics & Math** – Probability distributions, Linear Algebra basics
 
 ---
-
 ## 🧰 Platforms
 
 - 💻 **Google Colab**  
 - 📓 **Jupyter Notebook**  
+- 📊 **Microsoft Power BI**  
 - 🐘 **pgAdmin (PostgreSQL)**  
 - 🛠️ **MySQL Workbench**
+
 
 ---
 
